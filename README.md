@@ -95,9 +95,14 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mooazsayyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+
 ### 🔝 Github Stars
-<img src="https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/output/snake.svg" alt="Snake animation" />
-###
+
+![Snake animation](https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/output/snake.svg)
+
+---
+
 </div>
 
 ### Profile Views Count
