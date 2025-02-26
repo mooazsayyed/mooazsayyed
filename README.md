@@ -115,10 +115,15 @@
 ### Profile Views Count
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mooazsayyed/count.svg?"  />
-  ![GitHub followers](https://img.shields.io/github/followers/mooazsayyed?color=blue&label=Follow&logo=github&style=for-the-badge)
-
+  <img src="https://profile-counter.glitch.me/mooazsayyed/count.svg" />
 </div>
+
+<div align="center">
+  <a href="https://github.com/mooazsayyed?tab=followers">
+    <img src="https://img.shields.io/github/followers/mooazsayyed?color=blue&label=Follow&logo=github&style=for-the-badge" />
+  </a>
+</div>
+
 
 ###
 ---
