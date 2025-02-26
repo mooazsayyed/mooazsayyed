@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
+  <text x="10" y="35" font-size="30" fill="white">
+    <a href="https://medium.com/@sayyedmooaz">
+      Medium
+    </a>
+  </text>
+  <style>
+    text {
+      font-family: Arial, sans-serif;
+      animation: glow 1s infinite alternate;
+    }
+    @keyframes glow {
+      from { fill: white; }
+      to { fill: #ffcc00; }
+    }
+  </style>
+</svg>
