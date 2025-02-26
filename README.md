@@ -16,7 +16,7 @@
 - 📫 Reach out to me on **sayyedmooaz@gmail.com**
 ---
 
-### Socials
+### 🌐 Socials
 
 <!-- GIF (Aligned Inline) -->
 <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-bottom: 10px;" />
