@@ -36,13 +36,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=mooazsayyed&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+
+### ✍️ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mooazsayyed&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 🔝 Github Stars
-
 <img src="https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/output/snake.svg" alt="Snake animation" />
 
 ###
