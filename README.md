@@ -116,7 +116,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mooazsayyed/count.svg?"  />
-  ![GitHub followers](https://img.shields.io/github/followers/MooazSayyed?color=blue&label=Follow&logo=github&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/mooazsayyed?color=blue&label=Follow&logo=github&style=for-the-badge)
 
 </div>
 
