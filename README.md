@@ -39,7 +39,9 @@
   </a>
 
   <!-- GIF (Aligned Inline) -->
-  <img src="https://i.imgflip.com/65efzo.gif" width="100" height="100" style="border-radius: 10px;" />
+<div style="text-align: right;">
+    <img src="https://i.imgflip.com/65efzo.gif" width="100" height="100" style="border-radius: 10px;" />
+</div>
   
 </div>
 
