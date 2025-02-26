@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I’m currently working on [GateBot.io Scoiety securtiy System](https://github.com/moooazsayyed/GateBot.io)
+
+- 🌱 I’m currently learning **Google Cloud, Devops, Ruby on Rails**
+
+- 👯 I’m looking to collaborate on [GateBot.io](https://github.com/moooazsayyed/GateBot.io)
+
+- 🤝 I’m looking for help with **Python ,linux ,Azure**
+
+- 📝 I regularly write articles on [mooazsayyed.hasnode.dev](mooazsayyed.hasnode.dev)
+
+- 💬 Ask me about **Cloud Computing, Devops, CI/CD, Kubernetes**
+
+- 📫 Reach out to me on **sayyedmooaz@gmail.com**
 
 
 ## 🌐 Socials:
