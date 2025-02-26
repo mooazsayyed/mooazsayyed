@@ -106,10 +106,6 @@
 ### ✍️ Random Dev Quote
 <div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mooazsayyed&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
-
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
