@@ -21,24 +21,30 @@
 ## 🌐 Socials
 <br clear="both">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/MooazSayyed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://medium.com/@sayyedmooaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  </a>
-  <a href="mailto:sayyedmooaz@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<!-- Flex container for social icons and GIF -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<!-- GIF Container -->
-<div align="right">
-  <img src="https://i.imgflip.com/65efzo.gif" width="120" height="120" style="border-radius: 10px;" />
+  <!-- Social Icons -->
+  <div>
+    <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    </a>
+    <a href="https://x.com/MooazSayyed" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    </a>
+    <a href="https://medium.com/@sayyedmooaz" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
+    </a>
+    <a href="mailto:sayyedmooaz@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    </a>
+  </div>
+
+  <!-- GIF -->
+  <div>
+    <img src="https://i.imgflip.com/65efzo.gif" width="120" height="120" style="border-radius: 10px;" />
+  </div>
+
 </div>
 
 ---
