@@ -17,7 +17,6 @@
 ---
 
 ### Socials
-<br><br>
 <!-- Social Icons -->
 <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
@@ -35,6 +34,7 @@
 <!-- GIF (Aligned Inline) -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-bottom: 10px;" />
 
+<br><br>
 <br><br>
 
 ---
