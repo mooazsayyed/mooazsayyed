@@ -18,7 +18,7 @@
 
 ## 🌐 Socials
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sayyedmooaz)  
+![Medium](https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/main/animated.svg) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MooazSayyed)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayyedmooaz@gmail.com)  
 
