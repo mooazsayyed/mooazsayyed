@@ -23,8 +23,9 @@
 <div align="center" style="width: 200px; height: 120px; display: grid; grid-template-rows: repeat(2, 1fr); grid-template-columns: repeat(2, 1fr); gap: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=mooazsayyed&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" style="grid-column: 1 / span 2; width: 100%; height: auto; object-fit: cover;">
     <img src="https://nirzak-streak-stats.vercel.app/?user=mooazsayyed&theme=github_dark_dimmed&hide_border=false" alt="Streak Stats" style="grid-column: 1; width: 100%; height: auto; object-fit: cover;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooazsayyed&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages Stats" style="grid-column: 2; width: 100%; height: 60px; object-fit: cover;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooazsayyed&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages Stats" style="grid-column: 2; width: 100%; height: 80%; object-fit: cover;">
 </div>
+
 
 
 
