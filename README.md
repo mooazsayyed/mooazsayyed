@@ -17,11 +17,24 @@
 ---
 
 ## 🌐 Socials
+<br clear="both">
 
-![Medium](https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/main/animated.svg) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MooazSayyed)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayyedmooaz@gmail.com)  
+<div align="left">
+  <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/MooazSayyed" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://medium.com/@sayyedmooaz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="mailto:sayyedmooaz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
+###
 ---
 
 # 💻 Tech Stack:
@@ -116,13 +129,12 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mooazsayyed/count.svg" />
-</div>
-
-<div align="center">
+  <br><br> <!-- Adds space -->
   <a href="https://github.com/mooazsayyed?tab=followers">
     <img src="https://img.shields.io/github/followers/mooazsayyed?color=blue&label=Follow&logo=github&style=for-the-badge" />
   </a>
 </div>
+
 
 
 ###
