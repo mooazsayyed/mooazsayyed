@@ -48,7 +48,6 @@
 
 ### 🔝 Github Stars
 <img src="https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/output/snake.svg" alt="Snake animation" />
-
 ###
 ---
 [![](https://visitcount.itsvg.in/api?id=mooazsayyed&icon=0&color=0)](https://visitcount.itsvg.in)
