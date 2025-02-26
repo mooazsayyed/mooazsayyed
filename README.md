@@ -21,33 +21,29 @@
 ## 🌐 Socials
 <br clear="both">
 
-<table>
-  <tr>
-    <!-- Social Icons (Left Side) -->
-    <td>
-      <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-      </a>
-      <a href="https://x.com/MooazSayyed" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
-      </a>
-      <a href="https://medium.com/@sayyedmooaz" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium" />
-      </a>
-      <a href="mailto:sayyedmooaz@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-      </a>
-    </td>
+<!-- Social Icons and GIF in a Single Row -->
+<div style="display: flex; align-items: center; gap: 15px;">
 
-    <!-- Spacing -->
-    <td width="50"></td>
+  <!-- Social Icons -->
+  <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/MooazSayyed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@sayyedmooaz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium" />
+  </a>
+  <a href="mailto:sayyedmooaz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
 
-    <!-- GIF (Right Side) -->
-    <td>
-      <img src="https://i.imgflip.com/65efzo.gif" width="120" height="120" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+  <!-- GIF (Aligned Inline) -->
+  <img src="https://i.imgflip.com/65efzo.gif" width="100" height="100" style="border-radius: 10px;" />
+  
+</div>
+
+---
 
 
 # 💻 Tech Stack:
