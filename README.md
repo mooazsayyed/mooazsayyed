@@ -22,7 +22,6 @@
 <br clear="both">
 
 <!-- Social Icons and GIF in a Single Row -->
-<div style="display: flex; align-items: center; gap: 15px;">
 
   <!-- Social Icons -->
   <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
@@ -39,9 +38,8 @@
   </a>
 
   <!-- GIF (Aligned Inline) -->
-  <img src="https://i.imgflip.com/65efzo.gif" width="120" height="120" style="border-radius: 10px;" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   
-</div>
 
 ---
 
