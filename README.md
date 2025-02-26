@@ -19,9 +19,7 @@
 ---
 
 ## 🌐 Socials
-<br clear="both">
 
-<!-- Social Icons and GIF in a Single Row -->
 
   <!-- Social Icons -->
   <a href="https://www.linkedin.com/in/mooazsayyed/" target="_blank">
@@ -36,7 +34,6 @@
   <a href="mailto:sayyedmooaz@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-
   <!-- GIF (Aligned Inline) -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
   
