@@ -1,3 +1,5 @@
+<div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+
 # 💫 About Me:
 - 🔭 I’m currently working on [GateBot.io Scoiety securtiy System](https://github.com/moooazsayyed/GateBot.io)
 
@@ -94,13 +96,6 @@
 
 ###
 
-
-
-
-
-
-
-
 ### ✍️ Random Dev Quote
 <div align="center">
 
@@ -117,7 +112,6 @@
 ![Snake animation](https://raw.githubusercontent.com/mooazsayyed/mooazsayyed/output/snake.svg)
 
 ---
-
 </div>
 
 ### Profile Views Count
@@ -130,8 +124,6 @@
   </a>
 </div>
 
-
-
 ###
 ---
-
+</div>
