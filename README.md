@@ -1,13 +1,13 @@
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
 # 💫 About Me:
-- 🔭 I’m currently working on [GateBot.io Scoiety securtiy System](https://github.com/moooazsayyed/GateBot.io)
+- 🔭 I’m currently working on [Production grade Ecommerce Portal deployment using Helm and EKS]((https://github.com/mooazsayyed/Production-Grade-DevOps-Application-Deployment))
 
 - 🌱 I’m currently learning **Google Cloud, Devops, Ruby on Rails**
 
 - 👯 I’m looking to collaborate on [GateBot.io](https://github.com/moooazsayyed/GateBot.io)
 
-- 🤝 I’m looking for help with **Python ,linux ,Azure**
+- 🤝 I’m looking for help with **Python ,Kyverno ,Azure**
 
 - 📝 I regularly write articles on [mooazsayyed.hasnode.dev](mooazsayyed.hasnode.dev)
 
