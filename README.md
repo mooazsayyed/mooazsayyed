@@ -1,7 +1,7 @@
 <div style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Production grade Ecommerce Portal deployment using Helm and EKS]((https://github.com/mooazsayyed/Production-Grade-DevOps-Application-Deployment)
+- 🔭 I’m currently working on [Production grade Ecommerce Portal deployment using Helm and EKS](https://github.com/mooazsayyed/Production-Grade-DevOps-Application-Deployment)
 
 - 🌱 I’m currently learning **Google Cloud, Devops, Ruby on Rails**
 
