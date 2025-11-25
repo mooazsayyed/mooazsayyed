@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [GateBot.io](https://github.com/moooazsayyed/GateBot.io)
 
-- 🤝 I’m looking for help with **Python ,Kyverno ,Azure**
+- 🤝 I’m looking for help with **Python ,Kyverno ,GCP**
 
-- 📝 I regularly write articles on [mooazsayyed.hasnode.dev](mooazsayyed.hasnode.dev)
+- 📝 I regularly write articles on [mooazsayyed.hasnode.dev](https://blog.mooazsayyed.live)
 
 - 💬 Ask me about **Cloud Computing, Devops, CI/CD, Kubernetes**
 
